@@ -1,0 +1,7 @@
+name: ArmorHoloAPI
+description: ArmorHoloAPI
+main: com.connorlinfoot.armorholoapi.ArmorHoloAPI
+version: 1.0
+commands:
+  holo:
+    description: Holo
